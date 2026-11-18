@@ -4,7 +4,7 @@
 Lattice simulator, testing the Bragg-Williams approximation (re-adapted from the Ising model from https://github.com/rajeshrinet/compPhy) 
 
 Author: Martin Trulsson
-E-mail: martin.trulsson@compchem.lu.se
+E-mail: martin.trulsson@chem.lu.se
 
 # Prerequisites
 
