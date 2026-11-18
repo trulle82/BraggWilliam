@@ -6,6 +6,10 @@ Lattice simulator, testing the Bragg-Williams approximation (re-adapted from the
 Author: Martin Trulsson
 E-mail: martin.trulsson@chem.lu.se
 
+# WebBased:
+To run in the browser go to:
+https://trulle82.github.io/BraggWilliam/WebBased/
+
 # Prerequisites
 
 No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
